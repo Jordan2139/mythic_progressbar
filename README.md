@@ -1,3 +1,10 @@
+# Notes:
+- This is not my script
+        - It is made by Alzar who is an old developer that has left the FiveM scene
+        - This is a re-upload of this very popular script
+        
+OG ReadMe File Below:
+---
 # Mythic Progress Bar
 A simple action bar resource which allows actions to be visually displayed to the player and provides a callback function so actions can be peformed if the evnt was cancelled or not.
 RENAME RESOURCE TO mythic_progressbar
